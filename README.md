@@ -45,7 +45,7 @@ _True snippet and additional text editing support_
 
 ## Quick Start
 
-Install [nodejs](https://nodejs.org/en/download/) >= 12.12:
+Install [nodejs](https://nodejs.org/en/download/) >= 14.14:
 
 ```bash
 curl -sL install-node.vercel.app/lts | bash

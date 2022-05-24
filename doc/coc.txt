@@ -92,7 +92,7 @@ REQUIREMENTS						*coc-requirements*
 Neovim >= 0.3.2 or Vim >= 8.0.1453, for best experience, use neovim >= 0.4.0
 or vim >= 8.2.0750.
 
-NodeJS https://nodejs.org/ >= 12.12.0.
+NodeJS https://nodejs.org/ >= 14.14.0.
 
 Yarn https://yarnpkg.com/ required to build coc.nvim from typescript source
 code.
