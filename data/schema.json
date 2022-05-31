@@ -122,6 +122,10 @@
               "progress",
               "callHierarchy",
               "linkedEditing",
+              "inlayHint",
+              "inlineValue",
+              "typeHierarchy",
+              "pullDiagnostic",
               "fileEvents",
               "semanticTokens"
             ]
